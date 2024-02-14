@@ -1,0 +1,6 @@
+# IDE configurations
+.idea
+.vscode
+
+# DS_Store files
+.DS_Store
