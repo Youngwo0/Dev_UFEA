@@ -1,0 +1,1 @@
+extern "C" long sum(long A, long B);
